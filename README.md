@@ -77,16 +77,29 @@
 
 ### 项目池
 * 久坐提醒（喝水、走动）
-* 
+* 四轴飞行器
+* 带摄像头的遥控小车
+* （不断补充中...）
 
 
 ### 项目观察
-* 待补充
+* 生活类
+  * 自拍镜子 SELFIE **[&raquo;](http://www.jiasu.do/p/istrategy-labs-selfie-mirror/?sukey=a2e271d9f79cb0c6a23a328ba75ca5ff04185a738b861a1bc00735602c11b7d6d40d34e03f193d52cc8bfe4bc26d33de '查看详情')**
+  * Alima 智能空气监测 **[&raquo;](http://www.leiphone.com/kwz-alima.html '查看详情')**
+  * 30s 让你的生活更美好：全身烘干机 **[&raquo;](http://mp.weixin.qq.com/s?__biz=MzA5MTMyNTYzNA==&mid=200146595&idx=1&sn=9ddce0cfcf4f72e714b4327915771a6e '查看详情')**
+  * 站立式办公电控升降桌 StandDesk **[&raquo;](http://mp.weixin.qq.com/s?__biz=MzA5MTMyNTYzNA==&mid=200145111&idx=1&sn=1175b8b9e9f9323939e47b4ac444d32d '查看详情')**
+  * AutoBot 智能车载迹录仪 **[&raquo;](http://www.demohour.com/projects/340530 '查看详情')**
+* 音乐类
+  * 懂音乐，懂你心韵律的智能灯 ION **[&raquo;](http://www.ifanr.com/coolbuy/411553 '查看详情')**
+  * Gramofon，来自 Fon 的无线音乐路由器 **[&raquo;](http://www.ifanr.com/413876 '查看详情')**
+* 科技类
+  * 模块化手机 Project Ara **[&raquo;](http://www.ifanr.com/413978 '查看详情')**
 
 
 ### 业界动态
-* 王小川：智能硬件走入“互联网化”误区 **[&raquo;](http://www.ifanr.com/413036)**
-* 点名时间大会：智能硬件是下一张船票 **[&raquo;](http://www.leiphone.com/dianmingshijian.html)**
-* 迅雷要做智能路由中的谷歌？ **[&raquo;](http://mp.weixin.qq.com/s?__biz=MjM5ODIwMTkwMA==&mid=200127679&idx=1&sn=75272bcf032472eb75d91af58bc8e03d)**
+* 迅雷要做智能路由中的谷歌？ **[&raquo;](http://mp.weixin.qq.com/s?__biz=MjM5ODIwMTkwMA==&mid=200127679&idx=1&sn=75272bcf032472eb75d91af58bc8e03d '查看详情')**
+* 点名时间大会：智能硬件是下一张船票 **[&raquo;](http://www.leiphone.com/dianmingshijian.html '查看详情')**
+* 王小川：智能硬件走入“互联网化”误区 **[&raquo;](http://www.ifanr.com/413036 '查看详情')**
+
 
 
