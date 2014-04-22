@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## 小组 Arduino 计划
 
 ### 目标
@@ -91,6 +92,9 @@
 * 迅雷要做智能路由中的谷歌？ **[&raquo;](http://mp.weixin.qq.com/s?__biz=MjM5ODIwMTkwMA==&mid=200127679&idx=1&sn=75272bcf032472eb75d91af58bc8e03d)**
 
 
+=======
+please visit: [github page](http://hahnzhu.github.io/practice-of-arduino/)
+>>>>>>> 2a1ec73c3386c027dd0810fc72fea03e443f2f4f
 =======
 please visit: [github page](http://hahnzhu.github.io/practice-of-arduino/)
 >>>>>>> 2a1ec73c3386c027dd0810fc72fea03e443f2f4f
