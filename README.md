@@ -1,3 +1,5 @@
+项目主页：http://hahnzhu.github.io/practice-of-arduino/
+
 ## 小组 Arduino 计划
 
 ### 目标
