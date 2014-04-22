@@ -1,2 +1,1 @@
-see our homepage: [link](http://hahnzhu.github.io/practice-of-arduino/
-)
+see our homepage: http://hahnzhu.github.io/practice-of-arduino/
