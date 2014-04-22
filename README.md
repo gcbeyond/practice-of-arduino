@@ -76,7 +76,7 @@
 
 
 ### 项目池
-* 久坐提醒（喝水、走动）
+* 久坐提醒（喝水、走动 &raquo; [原型](http://www.demohour.com/projects/340576 'Ilovewater感应式提醒喝水杯贴')）
 * 四轴飞行器
 * 带摄像头的遥控小车
 * （不断补充中...）
@@ -89,9 +89,13 @@
   * 30s 让你的生活更美好：全身烘干机 **[&raquo;](http://mp.weixin.qq.com/s?__biz=MzA5MTMyNTYzNA==&mid=200146595&idx=1&sn=9ddce0cfcf4f72e714b4327915771a6e '查看详情')**
   * 站立式办公电控升降桌 StandDesk **[&raquo;](http://mp.weixin.qq.com/s?__biz=MzA5MTMyNTYzNA==&mid=200145111&idx=1&sn=1175b8b9e9f9323939e47b4ac444d32d '查看详情')**
   * AutoBot 智能车载迹录仪 **[&raquo;](http://www.demohour.com/projects/340530 '查看详情')**
-* 音乐类
+  * Gcord 极线智能话机 **[&raquo;](http://www.demohour.com/projects/331222)**
+  * Ilovewater 感应式提醒喝水杯贴 **[&raquo;](http://www.demohour.com/projects/340576 '查看详情')**
+  * Table Air 智能桌面空气净化器 **[&raquo;](http://www.demohour.com/projects/340403)**
+* 娱乐类
   * 懂音乐，懂你心韵律的智能灯 ION **[&raquo;](http://www.ifanr.com/coolbuy/411553 '查看详情')**
   * Gramofon，来自 Fon 的无线音乐路由器 **[&raquo;](http://www.ifanr.com/413876 '查看详情')**
+  * PP GUN －世界第一款移动射击游戏设备 **[&raquo;](http://www.demohour.com/projects/342962 '查看详情')**
 * 科技类
   * 模块化手机 Project Ara **[&raquo;](http://www.ifanr.com/413978 '查看详情')**
 
