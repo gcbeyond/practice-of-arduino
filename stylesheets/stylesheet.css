@@ -47,6 +47,13 @@ table {
 }
 
 /* LAYOUT STYLES */
+@font-face {
+  font-family: 'Architects Daughter';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Architects Daughter'), local('ArchitectsDaughter'), url(../assets/RXTgOOQ9AAtaVOHxx0IUBOkI_DLF4EgbZt3mhU8gQFo.woff) format('woff');
+}
+
 body {
   font-size: 15px;
   line-height: 1.5;
