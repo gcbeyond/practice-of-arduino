@@ -78,7 +78,7 @@
 
 
 ### 项目池
-* 久坐提醒（喝水、走动 &raquo; [原型](http://www.demohour.com/projects/340576 'Ilovewater感应式提醒喝水杯贴')）
+* 久坐提醒（喝水、走动 &raquo; [原型1](http://www.demohour.com/projects/340576 'Ilovewater感应式提醒喝水杯贴') [原型2](http://www.demohour.com/projects/336784 'Cuptime智能水杯')）
 * 四轴飞行器
 * 带摄像头的遥控小车
 * （不断补充中...）
@@ -93,7 +93,13 @@
   * AutoBot 智能车载迹录仪 **[&raquo;](http://www.demohour.com/projects/340530 '查看详情')**
   * Gcord 极线智能话机 **[&raquo;](http://www.demohour.com/projects/331222)**
   * Ilovewater 感应式提醒喝水杯贴 **[&raquo;](http://www.demohour.com/projects/340576 '查看详情')**
-  * Table Air 智能桌面空气净化器 **[&raquo;](http://www.demohour.com/projects/340403)**
+  * Table Air 智能桌面空气净化器 **[&raquo;](http://www.demohour.com/projects/340403 '查看详情')**
+  * Parrot Flower Power 感知植物健康的神器 **[&raquo;](http://mp.weixin.qq.com/s?__biz=MzA5NzQ1OTkzMw==&mid=200270538&idx=1&sn=28a5a95262f81e31d53aea8f23702e7e&uin=NDU0MzA2Mjc1 '查看详情')**
+  * 厨房自动化操作设备横空出世 可远程解冻食材 **[&raquo;](http://mp.weixin.qq.com/s?__biz=MzA5NzQ1OTkzMw==&mid=200273711&idx=1&sn=73f7be064637ead91d65d709c129ee3a&uin=NDU0MzA2Mjc1 '查看详情')**
+  * PC 用户的福音——超迷你笔记本电源适配器 **[&raquo;](http://mp.weixin.qq.com/s?__biz=MzA5MTMyNTYzNA==&mid=200159273&idx=1&sn=209d9098428aa03104ac506b9999d898#rd '查看详情')**
+  * 馒头机来了，未来还支持App **[&raquo;](http://mp.weixin.qq.com/s?__biz=MjM5MTg5NTU0MQ==&mid=200316618&idx=2&sn=4480b3a55403127f5df36fefbc77b866#rd '查看详情')**
+  * 有了这款鞋就不怕老人再跌倒了 **[&raquo;](http://mp.weixin.qq.com/s?__biz=MjM5NzAyNDg0NQ==&mid=200339847&idx=1&sn=d33e467e7dfbe765ef57c0beaaa67ce4#rd '查看详情')**
+  * 拖延症患者应该用什么硬件？**[&raquo;](http://mp.weixin.qq.com/s?__biz=MjM5NjAwMjEwMA==&mid=200218304&idx=1&sn=7bad3f34bd9bc6385fe56301def36c9e#rd '查看详情')**
 * 娱乐类
   * 懂音乐，懂你心韵律的智能灯 ION **[&raquo;](http://www.ifanr.com/coolbuy/411553 '查看详情')**
   * Gramofon，来自 Fon 的无线音乐路由器 **[&raquo;](http://www.ifanr.com/413876 '查看详情')**
@@ -102,10 +108,13 @@
   * 模块化手机 Project Ara **[&raquo;](http://www.ifanr.com/413978 '查看详情')**
 
 
+
 ### 业界动态
 * 迅雷要做智能路由中的谷歌？ **[&raquo;](http://mp.weixin.qq.com/s?__biz=MjM5ODIwMTkwMA==&mid=200127679&idx=1&sn=75272bcf032472eb75d91af58bc8e03d '查看详情')**
 * 点名时间大会：智能硬件是下一张船票 **[&raquo;](http://www.leiphone.com/dianmingshijian.html '查看详情')**
 * 王小川：智能硬件走入“互联网化”误区 **[&raquo;](http://www.ifanr.com/413036 '查看详情')**
+* “雷纳斯计划”靠谱吗？ **[&raquo;](http://mp.weixin.qq.com/s?__biz=MjM5MTg5NTU0MQ==&mid=200309565&idx=1&sn=a7722a32641cef979620559267792b2d&uin=NDU0MzA2Mjc1 '查看详情')**
+* 手机将成为你的智能家庭的大脑 **[&raquo;](http://mp.weixin.qq.com/s?__biz=MjM5MTg5NTU0MQ==&mid=200315105&idx=1&sn=4d5e98a163a8591ca222ab17c7e69731#rd '查看详情')**
 
 
 
