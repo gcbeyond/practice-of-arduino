@@ -109,6 +109,14 @@
 
 
 
+### 硬件视频
+* 李晓亮：麦开水杯 Cuptime 是如何塑成的？**[&raquo;](http://www.geekpark.net/cast/view/201427 '查看详情')**
+* Broadlink CEO 刘宗儒：谁才是家庭控制中心 **[&raquo;](http://www.geekpark.net/cast/view/201429 '查看详情')**
+* Makeblock 王建军：人人都是硬件开发者 **[&raquo;](http://www.geekpark.net/cast/view/201429 '查看详情')**
+* Yeelink CEO 姜兆宁：硬件点亮生活 **[&raquo;](http://www.geekpark.net/cast/view/201420 '查看详情')**
+* 汪伟:智能手表的近未来 ***[&raquo;](http://www.geekpark.net/cast/view/201436 '查看详情')**
+
+
 ### 业界动态
 * 迅雷要做智能路由中的谷歌？ **[&raquo;](http://mp.weixin.qq.com/s?__biz=MjM5ODIwMTkwMA==&mid=200127679&idx=1&sn=75272bcf032472eb75d91af58bc8e03d '查看详情')**
 * 点名时间大会：智能硬件是下一张船票 **[&raquo;](http://www.leiphone.com/dianmingshijian.html '查看详情')**
