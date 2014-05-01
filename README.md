@@ -105,6 +105,7 @@
   * 懂音乐，懂你心韵律的智能灯 ION **[&raquo;](http://www.ifanr.com/coolbuy/411553 '查看详情')**
   * Gramofon，来自 Fon 的无线音乐路由器 **[&raquo;](http://www.ifanr.com/413876 '查看详情')**
   * PP GUN －世界第一款移动射击游戏设备 **[&raquo;](http://www.demohour.com/projects/342962 '查看详情')**
+  * KOR-FX触感背心让你用胸腔体验震撼游戏效果 **[&raquo;](http://www.toodaylab.com/64838 '查看详情')**
 * 科技类
   * 模块化手机 Project Ara **[&raquo;](http://www.ifanr.com/413978 '查看详情')**
 
