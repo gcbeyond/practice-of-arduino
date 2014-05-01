@@ -100,6 +100,7 @@
   * 馒头机来了，未来还支持App **[&raquo;](http://mp.weixin.qq.com/s?__biz=MjM5MTg5NTU0MQ==&mid=200316618&idx=2&sn=4480b3a55403127f5df36fefbc77b866#rd '查看详情')**
   * 有了这款鞋就不怕老人再跌倒了 **[&raquo;](http://mp.weixin.qq.com/s?__biz=MjM5NzAyNDg0NQ==&mid=200339847&idx=1&sn=d33e467e7dfbe765ef57c0beaaa67ce4#rd '查看详情')**
   * 拖延症患者应该用什么硬件？**[&raquo;](http://mp.weixin.qq.com/s?__biz=MjM5NjAwMjEwMA==&mid=200218304&idx=1&sn=7bad3f34bd9bc6385fe56301def36c9e#rd '查看详情')**
+  * Monbaby智能纽扣：宝宝的睡眠监测仪 **[&raquo;](http://www.demohour.com/articles/products/posts/232039 '查看详情')**
 * 娱乐类
   * 懂音乐，懂你心韵律的智能灯 ION **[&raquo;](http://www.ifanr.com/coolbuy/411553 '查看详情')**
   * Gramofon，来自 Fon 的无线音乐路由器 **[&raquo;](http://www.ifanr.com/413876 '查看详情')**
