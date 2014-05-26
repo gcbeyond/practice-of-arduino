@@ -1,4 +1,6 @@
-destination: ./_site
-layouts:     ./_layouts
-permalink:   date
+name: Fkr
+markdown: redcarpet
+pygments: true
 
+permalink: none
+url: http://hahnzhu.github.io/practice-of-arduino/
