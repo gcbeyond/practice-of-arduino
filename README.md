@@ -105,7 +105,8 @@
 * 科技类
   * 模块化手机 Project Ara **[&raquo;](http://www.ifanr.com/413978 '查看详情')**
   * TinkerBots乐高式智能编程玩具 **[&raquo;](http://www.demohour.com/articles/products/posts/232763 '查看详情')**
-
+  * 体温充电：你的身体或将成为充电宝 **[&raquo;](http://mp.weixin.qq.com/s?__biz=MjM5NzAyNDg0NQ==&mid=200415084&idx=3&sn=e9384e614ccf10cdc757d0979d96e201&scene=1#rd '查看详情')**
+  * MYO Arm band手臂环控制器 **[&raquo;](http://mp.weixin.qq.com/s?__biz=MzA4ODIxMzUwMQ==&mid=200408400&idx=1&sn=17090815549928fd2b4b9d7ae02c318a&scene=1#rd '查看详情')**
 
 
 ### 硬件视频
@@ -122,6 +123,7 @@
 * 王小川：智能硬件走入“互联网化”误区 **[&raquo;](http://www.ifanr.com/413036 '查看详情')**
 * “雷纳斯计划”靠谱吗？ **[&raquo;](http://mp.weixin.qq.com/s?__biz=MjM5MTg5NTU0MQ==&mid=200309565&idx=1&sn=a7722a32641cef979620559267792b2d&uin=NDU0MzA2Mjc1 '查看详情')**
 * 手机将成为你的智能家庭的大脑 **[&raquo;](http://mp.weixin.qq.com/s?__biz=MjM5MTg5NTU0MQ==&mid=200315105&idx=1&sn=4d5e98a163a8591ca222ab17c7e69731#rd '查看详情')**
+* 可穿戴技术将引领医疗保健革命 **[&raquo;](http://mp.weixin.qq.com/s?__biz=MzA4NDI0NDkyOQ==&mid=202121660&idx=1&sn=df7318abe56020bff7d8e8a8df12d7f5&scene=1#rd '查看详情')**
 
 
 
