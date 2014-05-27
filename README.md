@@ -89,19 +89,14 @@
 * 生活类
   * 自拍镜子 SELFIE **[&raquo;](http://www.jiasu.do/p/istrategy-labs-selfie-mirror/?sukey=a2e271d9f79cb0c6a23a328ba75ca5ff04185a738b861a1bc00735602c11b7d6d40d34e03f193d52cc8bfe4bc26d33de '查看详情')**
   * Alima 智能空气监测 **[&raquo;](http://www.leiphone.com/kwz-alima.html '查看详情')**
-  * 30s 让你的生活更美好：全身烘干机 **[&raquo;](http://mp.weixin.qq.com/s?__biz=MzA5MTMyNTYzNA==&mid=200146595&idx=1&sn=9ddce0cfcf4f72e714b4327915771a6e '查看详情')**
-  * 站立式办公电控升降桌 StandDesk **[&raquo;](http://mp.weixin.qq.com/s?__biz=MzA5MTMyNTYzNA==&mid=200145111&idx=1&sn=1175b8b9e9f9323939e47b4ac444d32d '查看详情')**
+  * 30s 全身烘干机 **[&raquo;](http://mp.weixin.qq.com/s?__biz=MzA5MTMyNTYzNA==&mid=200146595&idx=1&sn=9ddce0cfcf4f72e714b4327915771a6e '查看详情')**
   * AutoBot 智能车载迹录仪 **[&raquo;](http://www.demohour.com/projects/340530 '查看详情')**
-  * Gcord 极线智能话机 **[&raquo;](http://www.demohour.com/projects/331222)**
   * Ilovewater 感应式提醒喝水杯贴 **[&raquo;](http://www.demohour.com/projects/340576 '查看详情')**
-  * Table Air 智能桌面空气净化器 **[&raquo;](http://www.demohour.com/projects/340403 '查看详情')**
-  * Parrot Flower Power 感知植物健康的神器 **[&raquo;](http://mp.weixin.qq.com/s?__biz=MzA5NzQ1OTkzMw==&mid=200270538&idx=1&sn=28a5a95262f81e31d53aea8f23702e7e&uin=NDU0MzA2Mjc1 '查看详情')**
-  * 厨房自动化操作设备横空出世 可远程解冻食材 **[&raquo;](http://mp.weixin.qq.com/s?__biz=MzA5NzQ1OTkzMw==&mid=200273711&idx=1&sn=73f7be064637ead91d65d709c129ee3a&uin=NDU0MzA2Mjc1 '查看详情')**
-  * PC 用户的福音——超迷你笔记本电源适配器 **[&raquo;](http://mp.weixin.qq.com/s?__biz=MzA5MTMyNTYzNA==&mid=200159273&idx=1&sn=209d9098428aa03104ac506b9999d898#rd '查看详情')**
-  * 馒头机来了，未来还支持App **[&raquo;](http://mp.weixin.qq.com/s?__biz=MjM5MTg5NTU0MQ==&mid=200316618&idx=2&sn=4480b3a55403127f5df36fefbc77b866#rd '查看详情')**
   * 有了这款鞋就不怕老人再跌倒了 **[&raquo;](http://mp.weixin.qq.com/s?__biz=MjM5NzAyNDg0NQ==&mid=200339847&idx=1&sn=d33e467e7dfbe765ef57c0beaaa67ce4#rd '查看详情')**
-  * 拖延症患者应该用什么硬件？**[&raquo;](http://mp.weixin.qq.com/s?__biz=MjM5NjAwMjEwMA==&mid=200218304&idx=1&sn=7bad3f34bd9bc6385fe56301def36c9e#rd '查看详情')**
   * Monbaby智能纽扣：宝宝的睡眠监测仪 **[&raquo;](http://www.demohour.com/articles/products/posts/232039 '查看详情')**
+  * MiniBrake遥控刹车系统：儿童学车安全伴侣 **[&raquo;](http://www.demohour.com/articles/products/posts/233053 '查看详情')**
+* 健康类
+  * SmartMove从脚下追踪你的健康  **[&raquo;](http://www.demohour.com/articles/products/posts/233051 '查看详情')**
 * 娱乐类
   * 懂音乐，懂你心韵律的智能灯 ION **[&raquo;](http://www.ifanr.com/coolbuy/411553 '查看详情')**
   * Gramofon，来自 Fon 的无线音乐路由器 **[&raquo;](http://www.ifanr.com/413876 '查看详情')**
@@ -109,6 +104,7 @@
   * KOR-FX触感背心让你用胸腔体验震撼游戏效果 **[&raquo;](http://www.toodaylab.com/64838 '查看详情')**
 * 科技类
   * 模块化手机 Project Ara **[&raquo;](http://www.ifanr.com/413978 '查看详情')**
+  * TinkerBots乐高式智能编程玩具 **[&raquo;](http://www.demohour.com/articles/products/posts/232763 '查看详情')**
 
 
 
