@@ -79,7 +79,9 @@
 
 
 ### 项目池
-* 久坐提醒（喝水、走动 &raquo; [原型1](http://www.demohour.com/projects/340576 'Ilovewater感应式提醒喝水杯贴') [原型2](http://www.demohour.com/projects/336784 'Cuptime智能水杯')）
+* 久坐提醒（喝水、走动 &raquo; [原型1](http://www.demohour.com/projects/340576 'Ilovewater感应式提醒喝水杯贴') [原型2](http://www.demohour.com/projects/336784 'Cuptime智能水杯')
+* 智能杯垫
+* 智能添衣提醒
 * 四轴飞行器
 * 带摄像头的遥控小车
 * （不断补充中...）
