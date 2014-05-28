@@ -79,20 +79,17 @@
 
 
 ### 项目池
-* 久坐提醒（喝水、走动 &raquo; [原型1](http://www.demohour.com/projects/340576 'Ilovewater感应式提醒喝水杯贴') [原型2](http://www.demohour.com/projects/336784 'Cuptime智能水杯')
+* 久坐提醒（喝水、走动 &raquo; [原型1](http://www.demohour.com/projects/340576 'Ilovewater感应式提醒喝水杯贴') [原型2](http://www.demohour.com/projects/336784 'Cuptime智能水杯')）
 * 智能杯垫
-* 智能添衣提醒
 * 四轴飞行器
+* 智能添衣提醒
 * 带摄像头的遥控小车
-* （不断补充中...）
 
 
 ### 项目观察
 * 生活类
   * 自拍镜子 SELFIE **[&raquo;](http://www.jiasu.do/p/istrategy-labs-selfie-mirror/?sukey=a2e271d9f79cb0c6a23a328ba75ca5ff04185a738b861a1bc00735602c11b7d6d40d34e03f193d52cc8bfe4bc26d33de '查看详情')**
-  * Alima 智能空气监测 **[&raquo;](http://www.leiphone.com/kwz-alima.html '查看详情')**
-  * 30s 全身烘干机 **[&raquo;](http://mp.weixin.qq.com/s?__biz=MzA5MTMyNTYzNA==&mid=200146595&idx=1&sn=9ddce0cfcf4f72e714b4327915771a6e '查看详情')**
-  * AutoBot 智能车载迹录仪 **[&raquo;](http://www.demohour.com/projects/340530 '查看详情')**
+  * AutoBot 智能车载迹录仪 **[&raquo;](http://www.demohour.com/projects/340530 '查看详情')** **[&raquo;](http://map.qq.com/lubao/hezi/ '查看详情')**
   * Ilovewater 感应式提醒喝水杯贴 **[&raquo;](http://www.demohour.com/projects/340576 '查看详情')**
   * 有了这款鞋就不怕老人再跌倒了 **[&raquo;](http://mp.weixin.qq.com/s?__biz=MjM5NzAyNDg0NQ==&mid=200339847&idx=1&sn=d33e467e7dfbe765ef57c0beaaa67ce4#rd '查看详情')**
   * Monbaby智能纽扣：宝宝的睡眠监测仪 **[&raquo;](http://www.demohour.com/articles/products/posts/232039 '查看详情')**
@@ -101,7 +98,6 @@
   * SmartMove从脚下追踪你的健康  **[&raquo;](http://www.demohour.com/articles/products/posts/233051 '查看详情')**
 * 娱乐类
   * 懂音乐，懂你心韵律的智能灯 ION **[&raquo;](http://www.ifanr.com/coolbuy/411553 '查看详情')**
-  * Gramofon，来自 Fon 的无线音乐路由器 **[&raquo;](http://www.ifanr.com/413876 '查看详情')**
   * PP GUN －世界第一款移动射击游戏设备 **[&raquo;](http://www.demohour.com/projects/342962 '查看详情')**
   * KOR-FX触感背心让你用胸腔体验震撼游戏效果 **[&raquo;](http://www.toodaylab.com/64838 '查看详情')**
 * 科技类
