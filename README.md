@@ -1,5 +1,3 @@
-项目主页：http://hahnzhu.github.io/practice-of-arduino/
-
 ## 小组 Arduino 计划
 
 ### 目标
@@ -68,13 +66,13 @@
 * 9V 电池 *1
 * 9V 电池盒 *1
 * 电位器 *1
+* 风焊
+* 镊子
 
 
 ### 下一批采购
-* 电烙铁
 * 万用表
 * 斜口钳
-* 镊子
 * 洞洞板
 
 
@@ -84,44 +82,3 @@
 * 四轴飞行器
 * 智能添衣提醒
 * 带摄像头的遥控小车
-
-
-### 项目观察
-* 生活类
-  * 自拍镜子 SELFIE **[&raquo;](http://www.jiasu.do/p/istrategy-labs-selfie-mirror/?sukey=a2e271d9f79cb0c6a23a328ba75ca5ff04185a738b861a1bc00735602c11b7d6d40d34e03f193d52cc8bfe4bc26d33de '查看详情')**
-  * AutoBot 智能车载迹录仪 **[&raquo;](http://www.demohour.com/projects/340530 '查看详情')** **[&raquo;](http://map.qq.com/lubao/hezi/ '查看详情')**
-  * Ilovewater 感应式提醒喝水杯贴 **[&raquo;](http://www.demohour.com/projects/340576 '查看详情')**
-  * 有了这款鞋就不怕老人再跌倒了 **[&raquo;](http://mp.weixin.qq.com/s?__biz=MjM5NzAyNDg0NQ==&mid=200339847&idx=1&sn=d33e467e7dfbe765ef57c0beaaa67ce4#rd '查看详情')**
-  * Monbaby智能纽扣：宝宝的睡眠监测仪 **[&raquo;](http://www.demohour.com/articles/products/posts/232039 '查看详情')**
-  * MiniBrake遥控刹车系统：儿童学车安全伴侣 **[&raquo;](http://www.demohour.com/articles/products/posts/233053 '查看详情')**
-* 健康类
-  * SmartMove从脚下追踪你的健康  **[&raquo;](http://www.demohour.com/articles/products/posts/233051 '查看详情')**
-* 娱乐类
-  * 懂音乐，懂你心韵律的智能灯 ION **[&raquo;](http://www.ifanr.com/coolbuy/411553 '查看详情')**
-  * PP GUN －世界第一款移动射击游戏设备 **[&raquo;](http://www.demohour.com/projects/342962 '查看详情')**
-  * KOR-FX触感背心让你用胸腔体验震撼游戏效果 **[&raquo;](http://www.toodaylab.com/64838 '查看详情')**
-* 科技类
-  * 模块化手机 Project Ara **[&raquo;](http://www.ifanr.com/413978 '查看详情')**
-  * TinkerBots乐高式智能编程玩具 **[&raquo;](http://www.demohour.com/articles/products/posts/232763 '查看详情')**
-  * 体温充电：你的身体或将成为充电宝 **[&raquo;](http://mp.weixin.qq.com/s?__biz=MjM5NzAyNDg0NQ==&mid=200415084&idx=3&sn=e9384e614ccf10cdc757d0979d96e201&scene=1#rd '查看详情')**
-  * MYO Arm band手臂环控制器 **[&raquo;](http://mp.weixin.qq.com/s?__biz=MzA4ODIxMzUwMQ==&mid=200408400&idx=1&sn=17090815549928fd2b4b9d7ae02c318a&scene=1#rd '查看详情')**
-
-
-### 硬件视频
-* Cuptime 李晓亮：麦开水杯是如何塑成的？**[&raquo;](http://www.geekpark.net/cast/view/201427 '查看详情')**
-* Broadlink 刘宗儒：谁才是家庭控制中心 **[&raquo;](http://www.geekpark.net/cast/view/201423 '查看详情')**
-* Makeblock 王建军：人人都是硬件开发者 **[&raquo;](http://www.geekpark.net/cast/view/201429 '查看详情')**
-* Yeelink 姜兆宁：硬件点亮生活 **[&raquo;](http://www.geekpark.net/cast/view/201420 '查看详情')**
-* 汪伟:智能手表的近未来 **[&raquo;](http://www.geekpark.net/cast/view/201436 '查看详情')**
-
-
-### 业界动态
-* 迅雷要做智能路由中的谷歌？ **[&raquo;](http://mp.weixin.qq.com/s?__biz=MjM5ODIwMTkwMA==&mid=200127679&idx=1&sn=75272bcf032472eb75d91af58bc8e03d '查看详情')**
-* 点名时间大会：智能硬件是下一张船票 **[&raquo;](http://www.leiphone.com/dianmingshijian.html '查看详情')**
-* 王小川：智能硬件走入“互联网化”误区 **[&raquo;](http://www.ifanr.com/413036 '查看详情')**
-* “雷纳斯计划”靠谱吗？ **[&raquo;](http://mp.weixin.qq.com/s?__biz=MjM5MTg5NTU0MQ==&mid=200309565&idx=1&sn=a7722a32641cef979620559267792b2d&uin=NDU0MzA2Mjc1 '查看详情')**
-* 手机将成为你的智能家庭的大脑 **[&raquo;](http://mp.weixin.qq.com/s?__biz=MjM5MTg5NTU0MQ==&mid=200315105&idx=1&sn=4d5e98a163a8591ca222ab17c7e69731#rd '查看详情')**
-* 可穿戴技术将引领医疗保健革命 **[&raquo;](http://mp.weixin.qq.com/s?__biz=MzA4NDI0NDkyOQ==&mid=202121660&idx=1&sn=df7318abe56020bff7d8e8a8df12d7f5&scene=1#rd '查看详情')**
-
-
-
